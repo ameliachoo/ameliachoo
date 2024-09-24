@@ -1,7 +1,6 @@
 - 🐈 Hi - I’m Amelia
 - 🎮 Passionate about designing and creating video games
 - 🌱 Learning C# / Python / C++
-- 🌺 Pronouns - she/her
 - 🌼 Artist / Designer
 
 <!---
