@@ -23,32 +23,32 @@ Woman in STEM, passionate about lifting up other women in tech.
 
 <td width="50%" valign="top">
 
-<h2 style="color:#6C9BE6">Toolbox</h2>
+<h2 style="color:#C98DA5">Toolbox</h2>
 
 <strong>Web &amp; Code</strong>
 <p>
-  <img src="https://img.shields.io/badge/HTML5-6C9BE6?logo=html5&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/CSS-6C9BE6?logo=css&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/JavaScript-6C9BE6?logo=javascript&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/TypeScript-6C9BE6?logo=typescript&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/React-6C9BE6?logo=react&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Next.js-6C9BE6?logo=nextdotjs&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Tailwind-6C9BE6?logo=tailwindcss&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/HTML5-F2C6D4?logo=html5&logoColor=6B4E5E&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/CSS-F2C6D4?logo=css&logoColor=6B4E5E&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/JavaScript-F2C6D4?logo=javascript&logoColor=6B4E5E&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/TypeScript-F2C6D4?logo=typescript&logoColor=6B4E5E&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/React-F2C6D4?logo=react&logoColor=6B4E5E&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Next.js-F2C6D4?logo=nextdotjs&logoColor=6B4E5E&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Tailwind-F2C6D4?logo=tailwindcss&logoColor=6B4E5E&style=for-the-badge" />
 </p>
 
 <strong>Games</strong>
 <p>
-  <img src="https://img.shields.io/badge/Unity-6C9BE6?logo=unity&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Unreal_Engine-6C9BE6?logo=unrealengine&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/C%23-6C9BE6?logo=dotnet&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Unity-F2C6D4?logo=unity&logoColor=6B4E5E&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Unreal_Engine-F2C6D4?logo=unrealengine&logoColor=6B4E5E&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/C%23-F2C6D4?logo=dotnet&logoColor=6B4E5E&style=for-the-badge" />
 </p>
 
 <strong>Art &amp; Design</strong>
 <p>
-  <img src="https://img.shields.io/badge/Photoshop-6C9BE6?logo=adobephotoshop&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Illustrator-6C9BE6?logo=adobeillustrator&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Figma-6C9BE6?logo=figma&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Blender-6C9BE6?logo=blender&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Photoshop-F2C6D4?logo=adobephotoshop&logoColor=6B4E5E&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Illustrator-F2C6D4?logo=adobeillustrator&logoColor=6B4E5E&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Figma-F2C6D4?logo=figma&logoColor=6B4E5E&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Blender-F2C6D4?logo=blender&logoColor=6B4E5E&style=for-the-badge" />
 </p>
 
 </td>
