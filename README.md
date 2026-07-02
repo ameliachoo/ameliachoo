@@ -10,7 +10,7 @@
 
 Recent Games Computing graduate with <strong>First-Class Honours</strong> from the University of Lincoln 👩‍🎓
 
-Currently, I work as a Game Artist and Graphic Designer for Synx Games. I also spend a lot of time working on Freelance Web Development projects and Game Development.
+Currently, I work as a Game Artist and Graphic Designer for Synx Games. I also spend a lot of time working on personal and freelance Web Development projects and Game Development.
 I work across all fields within this industry, from building sites and games to designing the visuals that bring them to life.
 
 I love projects where code and art meet, bringing a designer's eye to everything I build, focusing on accessibility and inclusivity.
